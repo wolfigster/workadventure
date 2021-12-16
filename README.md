@@ -30,3 +30,17 @@ This project contains multiple licenses:
 If you add third party assets in your map, do not forget to:
 1. Credit the author and license with the "tilesetCopyright" property present in the properties of each tilesets in the `map.json` file
 2. Add the license text in LICENSE.assets
+
+
+### lic
+1. https://www.deviantart.com/chaoticcherrycake/art/Pokemon-Tileset-From-Public-Tiles-32x32-623246343
+2. https://www.deviantart.com/chimcharsfireworkd/art/BW-Citrine-Tileset-Resized-227350418
+3. https://www.deviantart.com/phyromatical/art/DoT-Day24-Evolina-Mountains-Full-Set-653153011
+4. https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Ace-Sofas-and-Armchairs-466764664
+5. https://www.deviantart.com/ayene-chan/art/RPG-Maker-VX-Flowers-and-Pots-458076623
+6. https://www.deviantart.com/magiscarf/art/Old-River-Bridge-705696000
+7. https://www.deviantart.com/phyromatical/art/Taragonia-BW-Mix-434036293
+8. IDEAS:
+9. https://www.deviantart.com/princess-phoenix/art/Fossil-Museum-Tileset-780178878
+10. https://www.deviantart.com/phyromatical/art/It-s-just-Halloween-643280897
+11. https://www.deviantart.com/alucus/art/Cielo-Town-Remade-616729023
